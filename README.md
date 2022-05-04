@@ -15,3 +15,7 @@ Izogni se smrti.
  
 
 ## Sončen dan
+
+## Neznani avtorji
+
+- Jerneja Kropar
