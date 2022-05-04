@@ -1,12 +1,12 @@
 # Vislice
 
-###Kratek opis igre
+### Kratek opis igre
 
 
 Ugibaj črke in uganii besedilo.
 Izogni se smrti.
 
-###Podnaslov
+### Podnaslov
 
 
 
@@ -14,4 +14,4 @@ Izogni se smrti.
 
  
 
-##Sončen dan
+## Sončen dan
