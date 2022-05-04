@@ -16,6 +16,14 @@ Izogni se smrti.
 
 ## Sončen dan
 
+<<<<<<< HEAD
 ## Neznani avtorji
 
 - Jerneja Kropar
+=======
+## Avtorji
+Avtorji so:
+
+-Jerneja Kropar
+-...
+>>>>>>> f0ef9291b29496b1425bbd720e20dec322888f38
