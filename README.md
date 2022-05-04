@@ -15,3 +15,9 @@ Izogni se smrti.
  
 
 ## Sončen dan
+
+## Avtorji
+Avtorji so:
+
+-Jerneja Kropar
+-...
